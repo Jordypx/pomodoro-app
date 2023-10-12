@@ -143,12 +143,3 @@ Additional Features I'd like to add into this project:
 -   [TypeScript](https://www.typescriptlang.org/)
 -   [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
 
-## Author
-
--   Website - [https://www.chrisnowicki.io](https://www.chrisnowicki.io)
--   Frontend Mentor - [@chris-nowicki](https://www.frontendmentor.io/profile/chris-nowicki)
--   Twitter - [@iamwix](https://www.twitter.com/iamwix)
-
-## Acknowledgments
-
-Some credit definitely goes to [Kens-Visuals](https://github.com/kens-visuals/markdown-notes-app). Since this was my first project using TypeScript I did some research on how others wrote the Types for this specific app/challenge in React. I came across [Ken's Solution](https://www.frontendmentor.io/solutions/pomodoro-pwa-built-w-nextjs-typescript-tailwind-and-framer-motion-OByffa8eQw) and was impressed. I definitely learned a ton about TypeScript and Context through his solution.
